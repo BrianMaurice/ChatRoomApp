@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681176113676",
+    "project_id": "fir-app-14418",
+    "storage_bucket": "fir-app-14418.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681176113676:android:92a7c0672ba1ced4b04429",
+        "android_client_info": {
+          "package_name": "com.example.chatroomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKLeQ_2x1GUvVgzm4KgPZKStnmRCF67VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
